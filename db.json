@@ -1,53 +1,86 @@
 {
   "drinks": [
     {
-      "id": 1,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "1",
+      "name": "Margarita",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "category": "Cocktail",
+      "description": "A classic cocktail made with tequila, lime juice, and triple sec.",
+      "ingredients": [
+        "2 oz tequila",
+        "1 oz lime juice",
+        "1 oz triple sec",
+        "salt for rim",
+        "lime wheel for garnish"
+      ]
     },
     {
-      "id": 2,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "2",
+      "name": "Cosmopolitan",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg",
+      "category": "Cocktail",
+      "description": "A popular cocktail made with vodka, cranberry juice, and lime juice.",
+      "ingredients": [
+        "1 1/2 oz vodka",
+        "1 oz cranberry juice",
+        "1/2 oz lime juice",
+        "1/2 oz triple sec",
+        "lime wheel for garnish"
+      ]
     },
     {
-      "id": 3,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "3",
+      "name": "Old Fashioned",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+      "category": "Cocktail",
+      "description": "A classic cocktail made with bourbon, sugar, bitters, and a twist of citrus.",
+      "ingredients": [
+        "2 oz bourbon",
+        "1 tsp sugar",
+        "2 dashes Angostura bitters",
+        "orange twist for garnish"
+      ]
     },
     {
-      "id": 4,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "4",
+      "name": "Gin and Tonic",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/z0omyp1582480573.jpg",
+      "category": "Cocktail",
+      "description": "A refreshing cocktail made with gin, tonic water, and lime juice.",
+      "ingredients": [
+        "2 oz gin",
+        "4 oz tonic water",
+        "1 oz lime juice",
+        "lime wedge for garnish"
+      ]
     },
     {
-      "id": 5,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "5",
+      "name": "Negroni",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+      "category": "Cocktail",
+      "description": "A classic cocktail made with gin, Campari, and sweet vermouth.",
+      "ingredients": [
+        "1 oz gin",
+        "1 oz Campari",
+        "1 oz sweet vermouth",
+        "orange peel for garnish"
+      ]
     },
     {
-      "id": 6,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
-    },
-    {
-      "id": 7,
-      "title": "hello",
-      "info": "teste  testetestetestetestetesteteste",
-      "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-
+      "id": "6",
+      "name": "Mojito",
+      "photo": "https://www.thecocktaildb.com/images/media/drink/3z6xdi1589574603.jpg",
+      "category": "Cocktail",
+      "description": "A refreshing cocktail made with rum, lime juice, sugar, mint, and soda water.",
+      "ingredients": [
+        "2 oz rum",
+        "1 oz lime juice",
+        "1 tsp sugar",
+        "8-10 fresh mint leaves",
+        "soda water",
+        "mint sprig and lime wedge for garnish"
+      ]
     }
   ]
 }
