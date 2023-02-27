@@ -196,13 +196,21 @@
           "soda water",
           "mint sprig for garnish"
         ]
-      }
-       
-  ],
-  
-    "popular": [
+      },
       {
-        "id": "1",
+        "id": "15",
+        "name": "Martini",
+        "photo": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
+        "category": "Cocktail",
+        "description": "A classic cocktail made with gin or vodka and dry vermouth.",
+        "ingredients": [
+          "2 1/2 oz gin or vodka",
+          "1/2 oz dry vermouth",
+          "olive or lemon twist for garnish"
+        ]
+      },
+      {
+        "id": "16",
         "name": "Margarita",
         "photo": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
         "category": "Cocktail",
@@ -216,58 +224,31 @@
         ]
       },
       {
-        "id": "2",
-        "name": "Daiquiri",
-        "photo": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+        "id": "17",
+        "name": "Tequila Sunrise",
+        "photo": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg",
         "category": "Cocktail",
-        "description": "A classic cocktail made with rum, lime juice, and sugar.",
+        "description": "A colorful cocktail made with tequila, orange juice, and grenadine syrup.",
         "ingredients": [
-          "2 oz rum",
-          "1 oz lime juice",
-          "1/2 oz simple syrup",
-          "lime wheel for garnish"
+          "2 oz tequila",
+          "4 oz orange juice",
+          "1/2 oz grenadine syrup",
+          "orange slice and cherry for garnish"
         ]
       },
       {
-        "id": "3",
-        "name": "Mojito",
-        "photo": "https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg",
+        "id": "18",
+        "name": "Gin and Tonic",
+        "photo": "https://www.thecocktaildb.com/images/media/drink/z0omyp1582480573.jpg",
         "category": "Cocktail",
-        "description": "A refreshing cocktail made with rum, lime juice, mint leaves, sugar, and soda water.",
+        "description": "A refreshing cocktail made with gin and tonic water.",
         "ingredients": [
-          "2 oz rum",
-          "1 oz lime juice",
-          "1 tsp sugar",
-          "4-6 mint leaves",
-          "soda water",
-          "mint sprig for garnish"
-        ]
-      },
-      {
-        "id": "4",
-        "name": "Martini",
-        "photo": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
-        "category": "Cocktail",
-        "description": "A classic cocktail made with gin or vodka and dry vermouth.",
-        "ingredients": [
-          "2 1/2 oz gin or vodka",
-          "1/2 oz dry vermouth",
-          "olive or lemon twist for garnish"
-        ]
-      },
-      {
-        "id": "5",
-        "name": "Old Fashioned",
-        "photo": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
-        "category": "Cocktail",
-        "description": "A classic cocktail made with whiskey, sugar, bitters, and water.",
-        "ingredients": [
-          "2 oz whiskey",
-          "1 tsp sugar",
-          "2 dashes Angostura bitters",
-          "orange peel and cherry for garnish"
+          "2 oz gin",
+          "4 oz tonic water",
+          "lime wedge for garnish"
         ]
       }
-    ]
+       
+  ]
   }
   
